@@ -1,6 +1,6 @@
 {
   "name": "medooze-rtsp-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "RTSP Server",
   "main": "lib/RTSPServer.js",
   "directories": {
